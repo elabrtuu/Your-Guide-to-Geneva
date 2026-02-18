@@ -8,23 +8,23 @@ document.addEventListener("DOMContentLoaded", () => {
     const specialties = [
     {
         name: "Jet d’Eau",
-        img: "/Users/elabrtuu/CSE2004/website1/jetdeau2.jpg"
+        img: "images/jetdeau2.jpg"
     },
     {
         name: "Floral Clock",
-        img: "/Users/elabrtuu/CSE2004/website1/flowerclock.jpeg"
+        img: "images/flowerclock.jpeg"
     },
     {
         name: "Swiss Watches",
-        img: "/Users/elabrtuu/CSE2004/website1/watches.jpg"
+        img: "images/watches.jpg"
     },
     {
         name: "Lake Geneva",
-        img: "/Users/elabrtuu/CSE2004/website1/lakegeneva2.jpeg"
+        img: "images/lakegeneva2.jpeg"
     },
     {
         name: "CERN",
-        img: "/Users/elabrtuu/CSE2004/website1/cern.jpg"
+        img: "images/cern.jpg"
     }
 ];
     spinBtn.addEventListener("click", () => {
