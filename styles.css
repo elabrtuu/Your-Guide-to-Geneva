@@ -29,6 +29,10 @@ button {
             Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
+#spinbutton {
+    background: rgba(112, 151, 150, 0.935);
+}
+
 #row1 {
     background-image: url(images/geneva1.jpg);
     background-size: cover;
